@@ -7,6 +7,6 @@
 
 <body>
 <?php echo phpinfo();?>
-<div>I really want to learn git....</div>
+<div>I really want to learn git....check it</div>
 </body>
 </html>
